@@ -1,0 +1,10 @@
+This is a key value database.
+It's similar with Tokyo Cabinet.
+It has two underlying implemented structures:
+    a)  fixed size
+    b)  hash structure
+
+This project is licensed under public domain,
+you can copy any piece you want!
+
+contact: guanqun.lu AT gmail DOT com
